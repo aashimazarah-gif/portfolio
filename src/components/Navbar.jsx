@@ -2,7 +2,7 @@ import React from "react";
 
 function Navbar() {
   return (
-    <nav className="fixed top-0 left-0 w-full z-50 bg-yellow-400/80 backdrop-blur-md border-b border-yellow-300 shadow-lg">
+    <nav className="fixed top-0 left-0 w-full z-50 bg-yellow-300/80 backdrop-blur-md border-b border-yellow-200 shadow-lg">
 
       <div className="max-w-7xl mx-auto px-5 sm:px-8 md:px-16 py-4 flex items-center justify-end">
 

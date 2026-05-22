@@ -15,11 +15,11 @@ export default function Skills() {
     {
       title: "Backend & DB",
       techs: [
-        "Node.js",
-        "Express",
-        "REST APIs",
-        "MongoDB",
-        "PostgreSQL",
+        "JavaScript (Node.js)",
+        "Java",
+        "PHP",
+        "Python",
+        "C",
       ],
     },
     {

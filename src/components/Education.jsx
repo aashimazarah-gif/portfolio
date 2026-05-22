@@ -3,18 +3,18 @@ import React from "react";
 export default function Education() {
   const timeline = [
     {
-      degree: "Bachelor of Science in Computer Science",
-      institution: "Your University Name",
-      duration: "2020 - 2024",
+      degree: "Higher Secondary Education - Computer Science",
+      institution: "Government Higher Secondary School (GHSS) Cotton Hill",
+      duration: "2022 - 2024",
       description:
-        "Specialized in Software Engineering. Graduated with Honors. Core coursework included Data Structures, Algorithms, Database Systems, and Cloud Computing.",
+        "Completed Higher Secondary Education with a specialization in Computer Science. Studied programming fundamentals, computer applications, mathematics, and problem-solving concepts.",
     },
     {
-      degree: "Advanced Web Development Certification",
-      institution: "Tech Academy / BootCamp",
-      duration: "2024",
+      degree: "Diploma in Computer Engineering",
+      institution: "Govt Womens Polytechnic College Thiruvananthapuram",
+      duration: "2024 - Present",
       description:
-        "Intensive training focused on modern full-stack engineering, agile methodologies, and continuous deployment strategies.",
+        "Currently pursuing Diploma in Computer Engineering with focus on software development, web technologies, database management, and modern programming practices.",
     },
   ];
 

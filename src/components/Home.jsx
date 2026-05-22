@@ -68,7 +68,7 @@ function Home() {
 
             
   <img
-  src="/profile.png"
+  src="profile.jpeg"
   alt="Aashima"
   className="relative 
   w-[220px] h-[220px]
